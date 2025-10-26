@@ -276,7 +276,7 @@ body {
                 text-align: center;
                 color: rgb(49, 112, 175);
                 font-family: "Sanus";
-                background-color: white;
+                background-color: transparent;
                 border: 2px solid rgb(49, 112, 175);
                 border-radius: 5px;
                 padding: 4px 16px;
@@ -286,7 +286,7 @@ body {
             }
             .buy:hover {
                 background-color: rgb(49, 112, 175);
-                color: white;
+                color: azure;
             }
 
             .ultils {
