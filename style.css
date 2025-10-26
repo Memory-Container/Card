@@ -209,7 +209,7 @@ body {
             .name {
                 font-size: 25px;
                 font-weight: bold;
-                color: rgb(44, 98, 174);
+                color: rgb(49, 112, 175);
                 font-family: "Sanus";
                 letter-spacing: 1px;
             }
@@ -285,7 +285,7 @@ body {
                 transition: 0.25s;
             }
             .buy:hover {
-                background-color: rgb(49, 112, 175);
+                background-color: rgb(49, 175), 112;
                 color: azure;
             }
 
